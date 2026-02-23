@@ -1,2 +1,2 @@
 # liora_dpm_apd
-Projet DPM : Agence Française de Développement
+Projet DPM - Liora : Agence Française de Développement
